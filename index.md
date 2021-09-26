@@ -1,5 +1,5 @@
 # User Page
-![Me](https://github.com/RyProgrammer/github-pages/blob/dev/picture_of_me.PNG)
+![Pic of Me](picture_of_me.PNG)
 
 ## About Me
 
