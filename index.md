@@ -1,5 +1,5 @@
 # User Page
-![My image](picture_of_me.png)
+![My image](picture_of_me.PNG)
 
 ## About Me
 
